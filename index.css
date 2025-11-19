@@ -3,7 +3,6 @@
 }
 .page1{
     padding-top:100px;
-    height:100vh;
     background-image:radial-gradient(rgba(0, 0, 0, 0.7)),url('https://assets.nflxext.com/ffe/siteui/vlv3/e94073b0-a056-402f-9015-16cb1e7e45c2/web/IN-en-20251110-TRIFECTA-perspective_46e74acc-70aa-4691-988a-dbcf958149d1_large.jpg');
     background-size:cover;
 }
@@ -51,7 +50,6 @@
 .page2{
     background-image:radial-gradient(rgba(0, 0, 0, 0.7)),url('https://wallpapers.com/images/hd/netflix-background-6eijmcazwfrb9u6w.jpg');
     background-size:cover;
-    height:110vh;
     text-align:center;
 }
 .p2-title{
@@ -89,7 +87,6 @@
 }
 .page3{
     background-image:radial-gradient(rgba(0, 0, 0, 0.7)),url('https://img.freepik.com/free-photo/abstract-red-background-vertical-lines-strips_1258-108652.jpg?semt=ais_hybrid&w=740&q=80');
-    height:110vh;
     background-size:cover;
     text-align:center;
 }
